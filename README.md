@@ -112,7 +112,7 @@ It demonstrates basic password validation techniques and should not be considere
 
 ## 👨‍💻 Author
 
-**HerobrinegenX**
+**RaijingenX**
 
 ---
 
