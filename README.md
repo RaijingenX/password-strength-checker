@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow.svg)
-![Made by HerobrinegenX](https://img.shields.io/badge/Made%20by-HerobrinegenX⚡-brightgreen)
+![Made by RaijingenX](https://img.shields.io/badge/Made%20by-RaijingenX⚡-brightgreen)
 
 A beginner-friendly Python application that analyzes password strength using multiple security checks.
 
